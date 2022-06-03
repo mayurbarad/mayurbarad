@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayur Barad
-- 👀 I’m interested in Web Development and Freelanching
+- 👀 I’m interested in Web Development and Freelancing
 - 🌱 I’m currently learning CSS
 - 📫 How to reach me : mayurbarad2003@gmail.com
 
