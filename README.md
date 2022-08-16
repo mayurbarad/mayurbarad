@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQd4GyUhK2L_bRUIJfPXs0Q0hqUSs_d3COQ&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurbarad&label=Profile%20views&color=0e75b6&style=flat" alt="mayurbarad" /> </p>
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **mayurbarad2003@gmail.com**
 
