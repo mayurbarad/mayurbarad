@@ -9,8 +9,6 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Mayur Barad</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQd4GyUhK2L_bRUIJfPXs0Q0hqUSs_d3COQ&usqp=CAU">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurbarad&label=Profile%20views&color=0e75b6&style=flat" alt="mayurbarad" /> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
